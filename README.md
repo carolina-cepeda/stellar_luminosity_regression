@@ -29,6 +29,14 @@ The dataset used in this project is in the stellar luminosity hands-on file, whi
 
 ## Results Summary
 
+The following image shows the comparison of both models with the data given, we can see that the fit of the polynomial model it's more accurate, showing how a greater polynomial degree could be a better fit and adjust to the function of the correlation between the properties of stellar luminosity.
+
+![alt text](img/image.png)
+
+We can see that the relationship between mass and the stellar luminosity is non-linear and it's not captured on any of the models done during the project.This can be concluded because the residuals of both models have a clear parabolic shape and are not scattered.
+
+![alt text](img/residuals.png)
+
 
 ## Usage
 
